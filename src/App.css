@@ -521,7 +521,7 @@ nav {
   flex-direction: column;
 }
 
-.login-box input[type="text"],
+.login-box input[type="text"],  
 .login-box input[type="password"] {
   width: 100%;
   padding: 0.8rem;
