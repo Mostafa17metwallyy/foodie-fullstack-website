@@ -604,3 +604,9 @@ button[type="submit"] {
   padding: 0.75rem 1.5rem;
   align-self: flex-start;
 }
+
+.cart-actions {
+  display: flex;
+  gap: 1rem; /* Adds space between the buttons */
+  margin-top: 1rem; /* Optional: Adds spacing between the buttons and other elements */
+}
